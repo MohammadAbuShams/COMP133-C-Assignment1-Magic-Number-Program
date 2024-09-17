@@ -18,11 +18,9 @@ This C program finds and prints all magic numbers within a specified range that 
 
 ## Sample Input
 
-```plaintext
 Enter Left bound: 740
 Enter Right bound: 850
 Enter the digit to exclude it: 2
-plaintext```
 
 ## Sample Output
 
